@@ -8,7 +8,7 @@ $ pkg install git
 
 $ pkg install python2
 
-$ git clone https://github.com/sixtysix-Team/fbbrute
+$ git clone https://github.com/Christstars897876/Bruteforce.git
 
 $ cd fbbrute
 
